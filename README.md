@@ -1,2 +1,2 @@
 # LuxTracker
-LuxAppTracker
+LuxuryApp
